@@ -96,7 +96,7 @@ module.exports = async (data) => {
     baseTheme: process.env.BASE_THEME || "dark",
     siteName: process.env.SITE_NAME_HEADER || "Lumiel Ray's Daily Logs",
     siteLogoPath: logoPath,
-    mainLanguage: process.env.SITE_MAIN_LANGUAGE || "en",
+    mainLanguage: process.env.SITE_MAIN_LANGUAGE || "zh-TW",
     siteBaseUrl: baseUrl,
     styleSettingsCss,
     uiStrings,
