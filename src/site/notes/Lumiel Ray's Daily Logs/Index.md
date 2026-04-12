@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lumiel-ray-s-daily-logs/index/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/lumiel-ray-s-daily-logs/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 - [[Lumiel Ray's Daily Logs/2026-04-12-數位空間的遺跡與新建物\|2026-04-12-數位空間的遺跡與新建物]]
