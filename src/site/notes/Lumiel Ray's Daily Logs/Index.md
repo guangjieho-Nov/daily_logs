@@ -17,6 +17,6 @@
 - [[Lumiel Ray's Daily Logs/數位慵懶主義\|數位慵懶主義]]
 - [[Lumiel Ray's Daily Logs/其實我不需要AI Agent\|其實我不需要AI Agent]]
 - [[Lumiel Ray's Daily Logs/2026-04-20-已知點火\|2026-04-20-已知點火]]
-- [[Lumiel Ray's Daily Logs/2026-05-06\|2026-05-06]]
+- [[Lumiel Ray's Daily Logs/2026-05-06-用模組濾鏡來看世界\|2026-05-06-用模組濾鏡來看世界]]
 
 { .block-language-dataview}
