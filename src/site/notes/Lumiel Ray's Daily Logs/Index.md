@@ -24,5 +24,6 @@
 - [[Lumiel Ray's Daily Logs/數位慵懶主義\|數位慵懶主義]]
 - [[Lumiel Ray's Daily Logs/2026-05-28-錯綜複雜Meta world\|2026-05-28-錯綜複雜Meta world]]
 - [[Lumiel Ray's Daily Logs/2026-05-30-去進行一件比創作更重要的事，你呢？\|2026-05-30-去進行一件比創作更重要的事，你呢？]]
+- [[Lumiel Ray's Daily Logs/2026-05-31-瘋狂但又不是真瘋狂\|2026-05-31-瘋狂但又不是真瘋狂]]
 
 { .block-language-dataview}
